@@ -1,0 +1,15 @@
+/Users/mac/Projects/Meny/Meny/bin/Debug/net7.0/Meny
+/Users/mac/Projects/Meny/Meny/bin/Debug/net7.0/Meny.deps.json
+/Users/mac/Projects/Meny/Meny/bin/Debug/net7.0/Meny.runtimeconfig.json
+/Users/mac/Projects/Meny/Meny/bin/Debug/net7.0/Meny.dll
+/Users/mac/Projects/Meny/Meny/bin/Debug/net7.0/Meny.pdb
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.csproj.AssemblyReference.cache
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.AssemblyInfoInputs.cache
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.AssemblyInfo.cs
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.dll
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/refint/Meny.dll
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.pdb
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/Meny.genruntimeconfig.cache
+/Users/mac/Projects/Meny/Meny/obj/Debug/net7.0/ref/Meny.dll
